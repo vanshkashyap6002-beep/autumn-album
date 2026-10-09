@@ -1,0 +1,62 @@
+[
+  {
+    "file": "images/photo-01.jpg",
+    "source": "https://www.pexels.com/photo/16961636/",
+    "license": "https://www.pexels.com/license/",
+    "description": "A couple sitting together on a bench under autumn trees"
+  },
+  {
+    "file": "images/photo-02.jpg",
+    "source": "https://www.pexels.com/photo/35612678/",
+    "license": "https://www.pexels.com/license/",
+    "description": "Two people walking down a path beneath autumn trees"
+  },
+  {
+    "file": "images/photo-03.jpg",
+    "source": "https://www.pexels.com/photo/37198155/",
+    "license": "https://www.pexels.com/license/",
+    "description": "Coffee and a book on a picnic blanket outdoors"
+  },
+  {
+    "file": "images/photo-04.jpg",
+    "source": "https://www.pexels.com/photo/33593088/",
+    "license": "https://www.pexels.com/license/",
+    "description": "Two takeaway coffees and books resting on fallen leaves"
+  },
+  {
+    "file": "images/photo-05.jpg",
+    "source": "https://www.pexels.com/photo/28991797/",
+    "license": "https://www.pexels.com/license/",
+    "description": "A cup of coffee beside a book and a soft sweater"
+  },
+  {
+    "file": "images/photo-06.jpg",
+    "source": "https://www.pexels.com/photo/7318933/",
+    "license": "https://www.pexels.com/license/",
+    "description": "Hands opening a paper envelope on a wooden desk"
+  },
+  {
+    "file": "images/photo-07.jpg",
+    "source": "https://www.pexels.com/photo/24205155/",
+    "license": "https://www.pexels.com/license/",
+    "description": "A small bread stall in the shade of autumn trees"
+  },
+  {
+    "file": "images/photo-08.jpg",
+    "source": "https://www.pexels.com/photo/37198182/",
+    "license": "https://www.pexels.com/license/",
+    "description": "An open book on a picnic blanket with a cup and dried flowers"
+  },
+  {
+    "file": "images/photo-09.jpg",
+    "source": "https://www.pexels.com/photo/29685617/",
+    "license": "https://www.pexels.com/license/",
+    "description": "A bench beside a calm lake surrounded by autumn trees"
+  },
+  {
+    "file": "images/photo-10.jpg",
+    "source": "https://www.pexels.com/photo/16139229/",
+    "license": "https://www.pexels.com/license/",
+    "description": "Empty benches and fallen leaves beside a quiet lake"
+  }
+]
